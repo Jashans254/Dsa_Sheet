@@ -26,7 +26,7 @@
 1. Find minimum and maximum element in an array [Solution](./Easy/Find_minimum_and_maximum_element_in_an_array.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&difficulty%255B%255D=-1&category%255B%255D=Arrays&sortBy=submissions)***
 2. Binary Array Sorting [Solution](./Easy/Binary_Array_Sorting.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1?page=1&difficulty%255B%255D=-1&category%255B%255D=Arrays&sortBy=submissions)***
 3. Move all negative elements to end [Solution](./Easy/Move_all_negative_elements_to_end.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-4. Missing number [Solution](./Easy/Missing_number.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)***
+4. Missing number [Solution](./Easy/Missing_number.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)***; _💼Flipkart Morgan Stanley Accolite Amazon Microsoft D-E-Shaw Ola Cabs Payu Visa Intuit Adobe Cisco Qualcomm TCS_
 
 ### 📅 Day 3
 1. Search element in Matrix [Solution](./Easy/Search_element_in_Matrix.cpp) :- ***[LC](https://leetcode.com/problems/search-a-2d-matrix/)***
