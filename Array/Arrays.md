@@ -29,10 +29,10 @@
 4. Missing number [Solution](./Easy/Missing_number.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)***; _💼Flipkart Morgan Stanley Accolite Amazon Microsoft D-E-Shaw Ola Cabs Payu Visa Intuit Adobe Cisco Qualcomm TCS_
 
 ### 📅 Day 3
-1. Search element in Matrix [Solution](./Easy/Search_element_in_Matrix.cpp) :- ***[LC](https://leetcode.com/problems/search-a-2d-matrix/)***
+1. Search element in Matrix [Solution](./Easy/Search_element_in_Matrix.cpp) :- ***[LC](https://leetcode.com/problems/search-a-2d-matrix/)*** ; _💼Cisco CIS Uber Accenture HSBC Adobe Codenation Quest Technologies Xperi Novus Platform Zscalar D.E Shaw Accolite Gainsight_
 2. Find the fine [Solution](./Easy/Find_the_fine.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/find-the-fine4353/1?page=3&difficulty%255B%255D=-1&category%255B%255D=Arrays&sortBy=submissions)***
-3. Greater on right side [Solution](./Easy/Greater_on_right_side.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/greater-on-right-side4305/1?page=3&difficulty%255B%255D=-1&category%255B%255D=Arrays&sortBy=submissions)***
-4. Remove duplicate elements from sorted array [Solution](./Easy/Remove_duplicate_elements_from_sorted_array.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
+3. Greater on right side [Solution](./Easy/Greater_on_right_side.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/greater-on-right-side4305/1?page=3&difficulty%255B%255D=-1&category%255B%255D=Arrays&sortBy=submissions)***; _💼Amazon_
+4. Remove duplicate elements from sorted array [Solution](./Easy/Remove_duplicate_elements_from_sorted_array.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Zoho Morgan Stanley Microsoft Samsung Google Wipro Xome_
 
 ### 📅 Day 4
 1. subarray with given sum [Solution](./Easy/subarray_with_given_sum.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
