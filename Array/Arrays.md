@@ -35,24 +35,22 @@
 4. Remove duplicate elements from sorted array [Solution](./Easy/Remove_duplicate_elements_from_sorted_array.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Zoho Morgan Stanley Microsoft Samsung Google Wipro Xome_
 
 ### 📅 Day 4
-1. subarray with given sum [Solution](./Easy/subarray_with_given_sum.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-2. Sort an array of 0s , 1s , 2s [Solution](./Easy/Sort_an_array_of_0s_1s_2s.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-3. Equilibrium point [Solution](./Easy/Equilibrium_point.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-4. Peak element [Solution](./Easy/Peak_element.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/peak-element/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
+1. subarray with given sum [Solution](./Easy/subarray_with_given_sum.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** ; _💼Amazon Facebook Google Visa_
+2. Sort an array of 0s , 1s , 2s [Solution](./Easy/Sort_an_array_of_0s_1s_2s.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Paytm Flipkart Morgan Stanley Amazon Microsoft OYO Rooms Samsung Snapdeal Hike MakeMyTrip Ola Cabs Walmart MAQ Software Adobe Yatra.com SAP Labs Qualcomm_
+3. Equilibrium point [Solution](./Easy/Equilibrium_point.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***  _💼Amazon Adobe Google Facebook Microsoft Uber_
+4. Peak element [Solution](./Easy/Peak_element.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/peak-element/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** ; _💼Accolite Amazon Visa Adobe Google_
 
 ### 📅 Day 5
-1. Find Transition Point [Solution](./Easy/Find_Transition_Point.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-2. Alternative positive negative [Solution](./Easy/Alternative_positive_negative.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-3. Union of two sorted arrays [Solution](./Easy/Union_of_two_sorted_arrays.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
-4. Three way partition [Solution](./Easy/Three_way_partition.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/three-way-partitioning/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)***
+1. Find Transition Point [Solution](./Easy/Find_Transition_Point.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1?page=1&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Amazon_
+2. Alternative positive negative [Solution](./Easy/Alternative_positive_negative.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Paytm VMWare Amazon Microsoft Intuit_
+3. Union of two sorted arrays [Solution](./Easy/Union_of_two_sorted_arrays.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Amazon_
+4. Three way partition [Solution](./Easy/Three_way_partition.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/three-way-partitioning/1?page=2&difficulty%255B%255D=0&category%255B%255D=Arrays&sortBy=submissions)*** _💼Yahoo_
 
 ### 📅 Day 6
-1. Frogs and jumps [Solution](./Easy/Frogs_and_jumps.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/frogs-and-jumps--170647/1)***
+1. Frogs and jumps [Solution](./Easy/Frogs_and_jumps.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/frogs-and-jumps--170647/1)*** ; _💼PayPal_
 2. Min subsets and Consecutive numbers [Solution](./Easy/Min_subsets_and_Consecutive_numbers.cpp) :- ***[Gfg](https://practice.geeksforgeeks.org/problems/min-subsets-with-consecutive-numbers0601/1?page=3&difficulty%5B%5D=0&status%5B%5D=solved&category%5B%5D=Arrays&sortBy=submissions)***
-
-## 🟡 Medium : 16 Problems
-3. Find Missing and repeating [Solution](./Medium//Find_Missing_and_repeating.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?page=1&difficulty%255B%255D=1&category%255B%255D=Arrays&sortBy=submissions)***
-
+3. Find Missing and repeating [Solution](./Easy/Find_Missing_and_repeating.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?page=1&difficulty%255B%255D=1&category%255B%255D=Arrays&sortBy=submissions)***
+## 🟡 Medium : 15 Problems
 ### 📅 Day 7
 1. Rearrange Array Alternately [Solution](./Medium/Rearrange_Array_Alternately.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=1&difficulty%255B%255D=1&category%255B%255D=Arrays&sortBy=submissions)***
 2. Pythagoren Triplet [Solution](./Medium/Pythagoren_Triplet.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1?page=2&difficulty%255B%255D=1&category%255B%255D=Arrays&sortBy=submissions)***
